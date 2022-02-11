@@ -1,0 +1,11 @@
+SELECT *
+FROM app_store_apps
+WHERE CAST(review_count as numeric) > '100000'
+AND price < '5.00'
+AND primary_genre = 'Games' OR primary_genre = 'Family' OR primary_genre = 'Education'
+AND rating = 4.5 OR rating = 5.0
+ORDER BY review_count DESC
+								
+								 
+								 
+								 
