@@ -1,0 +1,12 @@
+name,avg_rating,lifespan_months,app_genre,play_genre,play_content_rating,app_content_rating,total_initial_investment,total_marketing_cost,total_investment_cost,total_net_profit,months_break_even,popularity_review_count
+PewDiePie's Tuber Simulator,4.9,132,Games,Casual,Teen,9+,"$20,000.00 ","$132,000.00 ","$152,000.00 ","$508,000.00 ",5,high
+Geometry Dash Lite,4.75,132,Games,Arcade,Everyone,4+,"$20,000.00 ","$132,000.00 ","$152,000.00 ","$508,000.00 ",5,high
+"Egg, Inc.",4.85,132,Games,Simulation,Everyone,4+,"$20,000.00 ","$132,000.00 ","$152,000.00 ","$508,000.00 ",5,moderate
+Cooking Fever,4.5,120,Games,Arcade,Everyone,4+,"$20,000.00 ","$120,000.00 ","$140,000.00 ","$460,000.00 ",5,high
+Pineapple Pen,4.4,120,Games,Arcade,Everyone,4+,"$20,000.00 ","$120,000.00 ","$140,000.00 ","$460,000.00 ",5,low
+"sugar, sugar",4.35,120,Games,Puzzle,Everyone,4+,"$31,901.20 ","$120,000.00 ","$151,901.20 ","$448,098.80 ",8,low
+Fruit Ninja Classic,4.4,120,Games,Arcade,Everyone,4+,"$39,801.99 ","$120,000.00 ","$159,801.99 ","$440,198.01 ",10,moderate
+Where's My Water?,4.6,120,Games,Puzzle;Brain Games,Everyone,4+,"$39,803.98 ","$120,000.00 ","$159,803.98 ","$440,196.02 ",10,moderate
+Toca Kitchen 2,4.5,120,Education,Educational;Pretend Play,Everyone,4+,"$39,902.99 ","$120,000.00 ","$159,902.99 ","$440,097.01 ",10,high
+Shopkins World!,4.15,108,Games,Arcade;Action & Adventure,Everyone,4+,"$20,000.00 ","$108,000.00 ","$128,000.00 ","$412,000.00 ",5,moderate
+,,,,,,,,,,"$4,624,589.84 ",,
